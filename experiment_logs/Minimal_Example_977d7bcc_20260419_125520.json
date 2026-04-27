@@ -1,0 +1,25 @@
+{
+  "experiment_id": "977d7bcc",
+  "experiment_name": "Minimal_Example",
+  "start_time": "2026-04-19T12:55:20.214269",
+  "algorithm_id": "YourAlgorithm",
+  "parameters": {
+    "param1": "value1",
+    "param2": 123
+  },
+  "results": {
+    "final_cost": 42.0,
+    "best_solution": [
+      1.0,
+      2.0,
+      3.0
+    ],
+    "end_time": "2026-04-19T12:55:20.214305",
+    "total_duration": 3.9577484130859375e-05
+  },
+  "iteration_history": [],
+  "metadata": {
+    "platform": "nt",
+    "working_directory": "E:\\L"
+  }
+}

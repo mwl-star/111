@@ -1,0 +1,20 @@
+[
+  {
+    "experiment_id": "ff706d88",
+    "experiment_name": "PSO_BA_Comparison",
+    "algorithm_id": "PSO",
+    "start_time": "2026-04-19T12:55:20.132106",
+    "end_time": "2026-04-19T12:55:20.189871",
+    "final_cost": 38.498591042573466,
+    "log_file": "PSO_BA_Comparison_ff706d88_*.json"
+  },
+  {
+    "experiment_id": "413eb7b1",
+    "experiment_name": "BA_Test",
+    "algorithm_id": "BA",
+    "start_time": "2026-04-19T12:55:20.194147",
+    "end_time": "2026-04-19T12:55:20.194611",
+    "final_cost": 32.91054240111695,
+    "log_file": "BA_Test_413eb7b1_*.json"
+  }
+]

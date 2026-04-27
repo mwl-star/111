@@ -1,0 +1,11 @@
+[
+  {
+    "experiment_id": "977d7bcc",
+    "experiment_name": "Minimal_Example",
+    "algorithm_id": "YourAlgorithm",
+    "start_time": "2026-04-19T12:55:20.214269",
+    "end_time": "2026-04-19T12:55:20.214305",
+    "final_cost": 42.0,
+    "log_file": "Minimal_Example_977d7bcc_*.json"
+  }
+]

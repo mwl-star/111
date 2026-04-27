@@ -1,0 +1,508 @@
+{
+  "experiment_id": "413eb7b1",
+  "experiment_name": "BA_Test",
+  "start_time": "2026-04-19T12:55:20.194147",
+  "algorithm_id": "BA",
+  "parameters": {
+    "iterations": 40,
+    "algorithm": "BA",
+    "test_run": true
+  },
+  "results": {
+    "final_cost": 32.91054240111695,
+    "best_solution": [
+      0.19778516027362486,
+      0.004355687548724535,
+      0.24894404854197996
+    ],
+    "end_time": "2026-04-19T12:55:20.194611",
+    "total_duration": 0.0004677772521972656,
+    "note": "BA算法测试运行"
+  },
+  "iteration_history": [
+    {
+      "iteration": 0,
+      "cost_value": 77.2626618153856,
+      "timestamp": "2026-04-19T12:55:20.194257",
+      "iteration_duration": 9.059906005859375e-06,
+      "best_solution": [
+        0.48046881247195833,
+        0.5720820552407845,
+        0.4511877676227966
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 1,
+      "cost_value": 74.79642262749104,
+      "timestamp": "2026-04-19T12:55:20.194272",
+      "iteration_duration": 3.0994415283203125e-06,
+      "best_solution": [
+        0.4622766055468276,
+        0.4719476856022862,
+        0.4769861140402978
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 2,
+      "cost_value": 73.71428072777235,
+      "timestamp": "2026-04-19T12:55:20.194281",
+      "iteration_duration": 2.384185791015625e-06,
+      "best_solution": [
+        0.38700394959434603,
+        0.5763363729977572,
+        0.4760977568310421
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 3,
+      "cost_value": 72.85689322587511,
+      "timestamp": "2026-04-19T12:55:20.194290",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.4410878551415961,
+        0.5404943081297501,
+        0.4339922505705152
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 4,
+      "cost_value": 72.03130616911075,
+      "timestamp": "2026-04-19T12:55:20.194299",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.37223810279618885,
+        0.5136447385115543,
+        0.43171806411473485
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 5,
+      "cost_value": 69.16286647662753,
+      "timestamp": "2026-04-19T12:55:20.194307",
+      "iteration_duration": 2.86102294921875e-06,
+      "best_solution": [
+        0.2856533523371827,
+        0.4959444640152468,
+        0.53472347150962
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 6,
+      "cost_value": 66.73130965260344,
+      "timestamp": "2026-04-19T12:55:20.194317",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.32661896618665437,
+        0.544037002618168,
+        0.5923391380452355
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 7,
+      "cost_value": 63.9872880689839,
+      "timestamp": "2026-04-19T12:55:20.194325",
+      "iteration_duration": 2.6226043701171875e-06,
+      "best_solution": [
+        0.3279874456776795,
+        0.484275736131794,
+        0.5462901278072033
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 8,
+      "cost_value": 61.544897769990506,
+      "timestamp": "2026-04-19T12:55:20.194338",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.27451386850576126,
+        0.46972975895543145,
+        0.5181476231912139
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 9,
+      "cost_value": 59.57796034884817,
+      "timestamp": "2026-04-19T12:55:20.194346",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.2455617006107023,
+        0.4799739008139933,
+        0.524166149358403
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 10,
+      "cost_value": 57.12553661471338,
+      "timestamp": "2026-04-19T12:55:20.194355",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.14053961479898833,
+        0.4312930957591886,
+        0.4739483800594224
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 11,
+      "cost_value": 54.275133509449844,
+      "timestamp": "2026-04-19T12:55:20.194363",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.08781618576516717,
+        0.3830213999794704,
+        0.4870384153112406
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 12,
+      "cost_value": 52.112326511132,
+      "timestamp": "2026-04-19T12:55:20.194372",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.10063086192314681,
+        0.42851199756673874,
+        0.4410570065283288
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 13,
+      "cost_value": 49.5421498122757,
+      "timestamp": "2026-04-19T12:55:20.194381",
+      "iteration_duration": 2.384185791015625e-06,
+      "best_solution": [
+        0.056436494669336146,
+        0.4431380293769296,
+        0.4867339396448389
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 14,
+      "cost_value": 48.10116771289424,
+      "timestamp": "2026-04-19T12:55:20.194389",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.0589337726395345,
+        0.3243441424621077,
+        0.5981576337131347
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 15,
+      "cost_value": 46.530266727895246,
+      "timestamp": "2026-04-19T12:55:20.194398",
+      "iteration_duration": 2.384185791015625e-06,
+      "best_solution": [
+        0.0690617977680886,
+        0.3231986335292243,
+        0.5847187668578808
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 16,
+      "cost_value": 44.78449058508289,
+      "timestamp": "2026-04-19T12:55:20.194407",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.13150522345647558,
+        0.30946472008043846,
+        0.6203756074264188
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 17,
+      "cost_value": 42.14940835697757,
+      "timestamp": "2026-04-19T12:55:20.194415",
+      "iteration_duration": 2.384185791015625e-06,
+      "best_solution": [
+        0.10167607144944817,
+        0.24360155275473128,
+        0.6012024495878195
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 18,
+      "cost_value": 40.33029932244533,
+      "timestamp": "2026-04-19T12:55:20.194423",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.09279103245317516,
+        0.2114074892090511,
+        0.6189332164278434
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 19,
+      "cost_value": 38.89023828533003,
+      "timestamp": "2026-04-19T12:55:20.194431",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.0435286383958173,
+        0.13612837208655965,
+        0.6328199901742009
+      ],
+      "phase": "exploration"
+    },
+    {
+      "iteration": 20,
+      "cost_value": 38.6737314603434,
+      "timestamp": "2026-04-19T12:55:20.194446",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.08756833737100277,
+        0.07721551772581711,
+        0.7049282295797176
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 21,
+      "cost_value": 38.35679101041523,
+      "timestamp": "2026-04-19T12:55:20.194454",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.12445819083048701,
+        0.07442514386273746,
+        0.6798737677362598
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 22,
+      "cost_value": 38.14917207991756,
+      "timestamp": "2026-04-19T12:55:20.194462",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.1086177718915824,
+        0.0420002375999908,
+        0.6544590554485082
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 23,
+      "cost_value": 37.83308669282956,
+      "timestamp": "2026-04-19T12:55:20.194470",
+      "iteration_duration": 1.6689300537109375e-06,
+      "best_solution": [
+        0.15321001303965132,
+        0.11261937704504017,
+        0.6465041219364588
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 24,
+      "cost_value": 37.4015833869307,
+      "timestamp": "2026-04-19T12:55:20.194478",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.22391906147668444,
+        0.16260714844700613,
+        0.6033201550485957
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 25,
+      "cost_value": 37.150227409424105,
+      "timestamp": "2026-04-19T12:55:20.194487",
+      "iteration_duration": 1.6689300537109375e-06,
+      "best_solution": [
+        0.20378067543217343,
+        0.155994921404651,
+        0.6449420405528387
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 26,
+      "cost_value": 36.95030287787297,
+      "timestamp": "2026-04-19T12:55:20.194495",
+      "iteration_duration": 1.6689300537109375e-06,
+      "best_solution": [
+        0.27687225785401415,
+        0.18410537261766585,
+        0.6716661388400151
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 27,
+      "cost_value": 36.572270453886134,
+      "timestamp": "2026-04-19T12:55:20.194502",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.26932205407388343,
+        0.17921423531267935,
+        0.6077078455319849
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 28,
+      "cost_value": 36.13661555197974,
+      "timestamp": "2026-04-19T12:55:20.194512",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.30760181376472034,
+        0.24440920718000164,
+        0.48760148853026797
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 29,
+      "cost_value": 35.87165150853692,
+      "timestamp": "2026-04-19T12:55:20.194520",
+      "iteration_duration": 2.384185791015625e-06,
+      "best_solution": [
+        0.27323571577012695,
+        0.19949804315185152,
+        0.5490655844312144
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 30,
+      "cost_value": 35.668241966448356,
+      "timestamp": "2026-04-19T12:55:20.194528",
+      "iteration_duration": 2.384185791015625e-06,
+      "best_solution": [
+        0.19920145326533306,
+        0.24656404271173424,
+        0.47251458020393905
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 31,
+      "cost_value": 35.52292849087233,
+      "timestamp": "2026-04-19T12:55:20.194536",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.2379843895860956,
+        0.3257079106548184,
+        0.3704097103717022
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 32,
+      "cost_value": 35.31518904340581,
+      "timestamp": "2026-04-19T12:55:20.194545",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.2481333581410237,
+        0.31292310163749215,
+        0.38615522732283414
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 33,
+      "cost_value": 35.12554242702641,
+      "timestamp": "2026-04-19T12:55:20.194552",
+      "iteration_duration": 1.6689300537109375e-06,
+      "best_solution": [
+        0.25681244902610506,
+        0.2882593577358379,
+        0.33311819409264315
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 34,
+      "cost_value": 34.87645060902091,
+      "timestamp": "2026-04-19T12:55:20.194561",
+      "iteration_duration": 1.9073486328125e-06,
+      "best_solution": [
+        0.2818636426137102,
+        0.19051014311351538,
+        0.2835823629335081
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 35,
+      "cost_value": 34.39452166657738,
+      "timestamp": "2026-04-19T12:55:20.194569",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.29239405868096147,
+        0.1421073426098393,
+        0.2500169463674261
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 36,
+      "cost_value": 34.0083326075781,
+      "timestamp": "2026-04-19T12:55:20.194577",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.33114503545299306,
+        0.08470926427869657,
+        0.27022808978116747
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 37,
+      "cost_value": 33.52211831417787,
+      "timestamp": "2026-04-19T12:55:20.194585",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.2830220978401513,
+        0.03621759584172024,
+        0.2894514273797575
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 38,
+      "cost_value": 33.405582486986916,
+      "timestamp": "2026-04-19T12:55:20.194593",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.25091709956194,
+        0.03725068829254399,
+        0.24413925524566665
+      ],
+      "phase": "exploitation"
+    },
+    {
+      "iteration": 39,
+      "cost_value": 32.91054240111695,
+      "timestamp": "2026-04-19T12:55:20.194601",
+      "iteration_duration": 2.1457672119140625e-06,
+      "best_solution": [
+        0.19778516027362486,
+        0.004355687548724535,
+        0.24894404854197996
+      ],
+      "phase": "exploitation"
+    }
+  ],
+  "metadata": {
+    "platform": "nt",
+    "working_directory": "E:\\L"
+  }
+}
